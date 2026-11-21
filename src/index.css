@@ -2310,3 +2310,15 @@ a {
   }
 }
 
+/* Мобильная адаптация вертикальных отступов */
+@media (max-width: 768px) {
+  .hero,
+  .services,
+  .about,
+  .works,
+  .reviews,
+  .contacts {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
