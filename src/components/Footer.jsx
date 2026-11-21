@@ -42,7 +42,7 @@ function Footer() {
 
         <div className="footer-bottom">
           <p>
-            © {new Date().getFullYear()} NORD DETAIL. DEMO PROJECT.
+            © {new Date().getFullYear()} NORD DETAIL.
           </p>
 
           <p className="footer-location">

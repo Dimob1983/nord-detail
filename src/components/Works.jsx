@@ -76,7 +76,7 @@ function Works() {
         </div>
 
         <div className="works-bottom">
-          <p>SELECTED PROJECTS / NORD DETAIL</p>
+          <p>НАШИ РАБОТЫ / NORD DETAIL</p>
 
           <a href="#contacts">
             ВАШ АВТОМОБИЛЬ МОЖЕТ БЫТЬ СЛЕДУЮЩИМ <span>↗</span>

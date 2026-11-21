@@ -5,7 +5,7 @@ function Hero() {
       <div className="hero-content">
         <div className="hero-label">
           <span className="hero-label-line"></span>
-          <p>PREMIUM CAR DETAILING</p>
+          <p>ПРЕМИАЛЬНЫЙ ДЕТЭЙЛИНГ АВТОМОБИЛЕЙ</p>
         </div>
 
         <h1>
@@ -56,7 +56,7 @@ function Hero() {
 
       <div className="hero-scroll">
         <span></span>
-        <p>SCROLL TO EXPLORE</p>
+        <p>ПРОКРУТИТЕ ВНИЗ</p>
       </div>
     </section>
   );
