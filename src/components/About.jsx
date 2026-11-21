@@ -1,3 +1,4 @@
+import studio from "../assets/images/studio.jpg";
 
 const advantages = [
   {
@@ -26,7 +27,7 @@ function About() {
       <div className="about-container">
         <div className="about-image">
           <img
-            src="https://images.unsplash.com/photo-1607860108855-64acf2078ed9?auto=format&fit=crop&w=1400&q=85"
+            src={studio}            
             alt="Профессиональный уход за автомобилем в студии"
           />
 
