@@ -1,3 +1,6 @@
+import porsche from "../assets/images/porsche.jpg";
+import bmw from "../assets/images/bmw.jpg";
+import mercedes from "../assets/images/mercedes.jpg";
 
 const works = [
   {
@@ -5,24 +8,21 @@ const works = [
     name: "Porsche 911 Carrera",
     category: "ПОЛИРОВКА · КЕРАМИКА",
     description: "Восстановление блеска и защита кузова.",
-    image:
-      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1400&q=85",
+    image: porsche,
   },
   {
   number: "02",
   name: "BMW M4 Competition",
   category: "ДЕТЕЙЛИНГ · ЗАЩИТА",
   description: "Комплексный уход за кузовом и деталями.",
-  image:
-    "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1400&q=85",
+  image: bmw,
 },
   {
     number: "03",
     name: "Mercedes-Benz GLE",
     category: "ИНТЕРЬЕР · УХОД",
     description: "Глубокая очистка и восстановление интерьера.",
-    image:
-      "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=1400&q=85",
+    image: mercedes,
   },
 ];
 

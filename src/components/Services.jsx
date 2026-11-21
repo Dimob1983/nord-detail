@@ -1,4 +1,6 @@
-
+import polishing from "../assets/images/polishing.jpg";
+import ceramic from "../assets/images/ceramic.jpg";
+import interior from "../assets/images/interior.jpg";
 
 const services = [
   {
@@ -7,8 +9,7 @@ const services = [
     description:
       "Возвращаем лакокрасочному покрытию глубину цвета, блеск и гладкость. Устраняем мелкие царапины и дефекты.",
     price: "от 12 000 ₽",
-    image:
-      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=85",
+    image: polishing,
   },
   {
     number: "02",
@@ -16,8 +17,7 @@ const services = [
     description:
       "Создаём защитный слой, который сохраняет блеск кузова, облегчает уход и защищает от внешних воздействий.",
     price: "от 25 000 ₽",
-    image:
-      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=85",
+    image: ceramic,
   },
   {
     number: "03",
@@ -25,8 +25,7 @@ const services = [
     description:
       "Комплексная очистка салона, уход за кожей, текстилем и пластиковыми элементами с вниманием к каждой детали.",
     price: "от 8 000 ₽",
-    image:
-      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&w=1200&q=85",
+    image: interior,
   },
 ];
 
