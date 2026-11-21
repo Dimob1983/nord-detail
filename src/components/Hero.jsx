@@ -51,7 +51,7 @@ function Hero() {
       </div>
 
       <div className="hero-side-text">
-        NORD DETAIL — EST. 2021
+        NORD DETAIL — ОСНОВАНА В 2021г.
       </div>
 
       <div className="hero-scroll">
